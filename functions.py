@@ -40,3 +40,6 @@ def add(num1, num2):
 
 result = add(33, 66)
 print(result)
+
+result = add(3, 36)
+print(str(result) + "\nend of calculations!")
